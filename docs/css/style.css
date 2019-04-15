@@ -1,0 +1,99 @@
+body{
+  font-family:Verdana,sans-serif;
+  letter-spacing: 0.1em;
+}
+
+body a{
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+#page{
+    width: 1080px;
+    background-color: rgb(210, 210, 210);
+    font-size: 14px;
+    color:dimgrey;
+    margin: 50px auto;
+}
+
+#title {
+  padding: 40px 20px;
+  background-color: rgb(230, 230, 230);
+}
+#navi{
+  width: 1080px;
+  overflow: hidden+
+}
+#navi p{
+  float: left;
+  width:150px;
+  margin-right:1px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 14px;
+}
+#navi p a{
+  display: block;
+  padding: 14px;
+  height: 17px;
+  
+}
+p.navi a{
+  background-color: aqua;
+}
+p.current a{
+  background-color:darkblue;
+  color:coral;
+}
+
+#footer{
+  clear:both;
+}
+#news{
+  clear:both;
+  padding: 14px;
+  margin: 14px;
+}
+#news dl{
+  padding: 14px;
+  margin: 14px;
+}
+#whois{
+  clear:both;
+  padding: 14px;
+  margin: 14px;
+}
+#whois ul{
+  padding: 14px;
+  margin: 14px;
+}
+#contacts{
+  clear:both;
+  padding: 14px;
+  margin: 14px;
+}
+#contents{
+  clear: both;
+  background-color: azure;
+  padding: 20px;
+  margin: 20px;
+}
+#contents h1{
+  font-size: 20px;
+}
+#contents p{
+  font-size: 16px
+}
+#list{
+  clear: both;
+  background-color: azure;
+  padding: 14px;
+  margin: 14px;
+}
+#list ul{
+    padding: 14px;
+  margin: 14px;
+}
